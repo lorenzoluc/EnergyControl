@@ -1,4 +1,4 @@
-#Energy Control
+# Energy Control
 This repository provides a simple yet extensible Python framework for simulating energy flows in a low-voltage electrical network with distributed energy resources (DERs), including photovoltaic systems, loads, and batteries. It includes simulation-time modeling, a basic rule-based controller, and an optimization module for battery dispatch using cvxpy.
 
 ##🧱 Components
