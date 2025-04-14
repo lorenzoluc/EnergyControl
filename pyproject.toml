@@ -1,0 +1,12 @@
+[project]
+name = "energy-control-uv"
+version = "0.1.0"
+description = "Add your description here"
+readme = "README.md"
+requires-python = ">=3.12"
+dependencies = [
+    "cvxpy>=1.6.4",
+    "ecos>=2.0.14",
+    "matplotlib>=3.10.1",
+    "mock>=5.2.0",
+]
